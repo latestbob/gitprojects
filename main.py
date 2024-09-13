@@ -1,5 +1,5 @@
 
 
-training = "Git and Github"
+training = "Git and Github Project"
 
 print(training)
